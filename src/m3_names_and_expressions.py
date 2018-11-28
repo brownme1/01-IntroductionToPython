@@ -125,3 +125,4 @@ print(type('math'))
 #   DO IT FREQUENTLY; AT LEAST once per module.
 #
 ###############################################################################
+print(3*('hi'+'bye'))
